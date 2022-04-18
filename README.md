@@ -12,7 +12,9 @@
 
 - 📫 How to reach me **eishtamittal@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakaggarwal19032001&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakaggarwal19032001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Eishta&label=Profile%20views&color=0e75b6&style=flat" alt="Eishta" /> </p>
+
+
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eishta" alt="Eishta" /></a> </p> -->
 <h3 align="left">Connect with me:</h3>
