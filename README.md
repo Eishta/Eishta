@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTctN0xuCdPtEmy8cUD6z5c6-bID3A5oZI3Cw&usqp=CAU">
 
 
-- 👨‍🎓 Currently working as a SDE III.
+- Currently working as a SDE III.
 
-- 👤  I have 4+ yrs experience in React.js.
+- I have 4+ yrs experience in React.js.
 
 - 👀 **Interested** in learning all those skills which are required to be a good **Web Developer**.
 
