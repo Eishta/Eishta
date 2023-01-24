@@ -6,7 +6,7 @@
 
 - Currently working as a SDE III.
 
-- I have 4+ yrs experience in React.js.
+- I have 5+ yrs experience in Frontend.
 
 - 👀 **Interested** in learning all those skills which are required to be a good **Web Developer**.
 
